@@ -15,7 +15,7 @@ function App() {
   return (
     <div>
       <MyBar name="Me App" />
-      <h1>Hello DIT, RSU</h1>
+      <h1>Jennarong Meejai 6604977</h1>
       <Grid container spacing={2}>
       {data.map(item => (
         <Grid item xs={12} md={4}>
